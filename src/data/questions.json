@@ -1,0 +1,102 @@
+﻿[
+  {
+    "id": "q1",
+    "prompt": "When someone takes too long to text back, what happens internally?",
+    "choices": [
+      { "id": "q1a", "text": "I re-read every message for hidden signals.", "typeId": "cling-on-architect" },
+      { "id": "q1b", "text": "I shrug and move on instantly.", "typeId": "panic-flusher" },
+      { "id": "q1c", "text": "I pretend not to care, then overthink at 2 a.m.", "typeId": "phantom-wiper" },
+      { "id": "q1d", "text": "I send a meme and keep it light.", "typeId": "golden-hour-glider" }
+    ]
+  },
+  {
+    "id": "q2",
+    "prompt": "Your ideal first date energy is:",
+    "choices": [
+      { "id": "q2a", "text": "Deep questions and a symbolic location.", "typeId": "ceremonial-sitter" },
+      { "id": "q2b", "text": "Spontaneous chaos and poor logistics.", "typeId": "chaotic-comet" },
+      { "id": "q2c", "text": "Low stakes, clear boundaries, short duration.", "typeId": "avoidant-marble" },
+      { "id": "q2d", "text": "Simple, relaxed, and easy conversation.", "typeId": "stoic-boulder" }
+    ]
+  },
+  {
+    "id": "q3",
+    "prompt": "In group chats, you usually:",
+    "choices": [
+      { "id": "q3a", "text": "Reply to everyone so nobody feels ignored.", "typeId": "people-pleasing-spiral" },
+      { "id": "q3b", "text": "Drop one perfect message then disappear.", "typeId": "panic-flusher" },
+      { "id": "q3c", "text": "Voice-note your whole emotional weather report.", "typeId": "oversharing-soft-serve" },
+      { "id": "q3d", "text": "Read quietly and respond when needed.", "typeId": "stoic-boulder" }
+    ]
+  },
+  {
+    "id": "q4",
+    "prompt": "Your conflict style is best described as:",
+    "choices": [
+      { "id": "q4a", "text": "I over-explain to keep the peace.", "typeId": "people-pleasing-spiral" },
+      { "id": "q4b", "text": "I call a timeout and process alone.", "typeId": "avoidant-marble" },
+      { "id": "q4c", "text": "I spiral, then recover with humor.", "typeId": "oversharing-soft-serve" },
+      { "id": "q4d", "text": "I stay grounded and discuss facts.", "typeId": "golden-hour-glider" }
+    ]
+  },
+  {
+    "id": "q5",
+    "prompt": "Pick your emotional loading speed:",
+    "choices": [
+      { "id": "q5a", "text": "Instant. I attach at first eye contact.", "typeId": "oversharing-soft-serve" },
+      { "id": "q5b", "text": "Very slow. Trust takes time.", "typeId": "stoic-boulder" },
+      { "id": "q5c", "text": "On/off depending on cosmic signals.", "typeId": "chaotic-comet" },
+      { "id": "q5d", "text": "Structured and intentional.", "typeId": "ceremonial-sitter" }
+    ]
+  },
+  {
+    "id": "q6",
+    "prompt": "How do you react to vulnerability?",
+    "choices": [
+      { "id": "q6a", "text": "I hold it carefully and stay present.", "typeId": "golden-hour-glider" },
+      { "id": "q6b", "text": "I dodge with jokes and logistics.", "typeId": "phantom-wiper" },
+      { "id": "q6c", "text": "I absorb everything and worry later.", "typeId": "cling-on-architect" },
+      { "id": "q6d", "text": "I appreciate it but keep emotional distance.", "typeId": "avoidant-marble" }
+    ]
+  },
+  {
+    "id": "q7",
+    "prompt": "Your attachment motto sounds like:",
+    "choices": [
+      { "id": "q7a", "text": "\"If I stay useful, I'm lovable.\"", "typeId": "people-pleasing-spiral" },
+      { "id": "q7b", "text": "\"If I leave first, I stay safe.\"", "typeId": "panic-flusher" },
+      { "id": "q7c", "text": "\"If I control the ritual, I control the risk.\"", "typeId": "ceremonial-sitter" },
+      { "id": "q7d", "text": "\"If I show less, I hurt less.\"", "typeId": "avoidant-marble" }
+    ]
+  },
+  {
+    "id": "q8",
+    "prompt": "What best describes your ex-file system?",
+    "choices": [
+      { "id": "q8a", "text": "Color-coded archive with timestamps.", "typeId": "cling-on-architect" },
+      { "id": "q8b", "text": "Deleted everything in under 5 minutes.", "typeId": "panic-flusher" },
+      { "id": "q8c", "text": "Messy folder, meaningful keepsakes.", "typeId": "oversharing-soft-serve" },
+      { "id": "q8d", "text": "Minimal trace, clean separation.", "typeId": "golden-hour-glider" }
+    ]
+  },
+  {
+    "id": "q9",
+    "prompt": "When life gets stressful, you become:",
+    "choices": [
+      { "id": "q9a", "text": "Rigid, focused, and less emotionally available.", "typeId": "avoidant-marble" },
+      { "id": "q9b", "text": "Intense and unpredictable.", "typeId": "chaotic-comet" },
+      { "id": "q9c", "text": "Steady and practical.", "typeId": "stoic-boulder" },
+      { "id": "q9d", "text": "Ritual-heavy and reflective.", "typeId": "ceremonial-sitter" }
+    ]
+  },
+  {
+    "id": "q10",
+    "prompt": "Choose the ending that feels most like you:",
+    "choices": [
+      { "id": "q10a", "text": "Unexpected, loud, and unforgettable.", "typeId": "chaotic-comet" },
+      { "id": "q10b", "text": "Quietly complete with no residue.", "typeId": "phantom-wiper" },
+      { "id": "q10c", "text": "Reliable finish, no drama.", "typeId": "stoic-boulder" },
+      { "id": "q10d", "text": "Mutual closure with warm aftercare.", "typeId": "golden-hour-glider" }
+    ]
+  }
+]

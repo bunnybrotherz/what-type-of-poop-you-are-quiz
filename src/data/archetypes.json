@@ -1,0 +1,52 @@
+﻿[
+  {
+    "id": "phantom-wiper",
+    "name": "The Phantom Wiper",
+    "description": "You appear low-maintenance, but your emotional cleanup process is mysteriously endless. You tell people you're fine while doing 17 invisible follow-up checks."
+  },
+  {
+    "id": "cling-on-architect",
+    "name": "The Cling-On Architect",
+    "description": "You build intricate attachments that survive every flush of reality. Loyal, persistent, and occasionally impossible to detach from old storylines."
+  },
+  {
+    "id": "panic-flusher",
+    "name": "The Panic Flusher",
+    "description": "At the first sign of emotional weight, you hit eject. Fast decisions, faster exits, and selective memory after every intense moment."
+  },
+  {
+    "id": "ceremonial-sitter",
+    "name": "The Ceremonial Sitter",
+    "description": "You process life slowly and with intention. Your attachment style is thoughtful, ritualized, and mildly dramatic in presentation."
+  },
+  {
+    "id": "avoidant-marble",
+    "name": "The Avoidant Marble",
+    "description": "Compact, controlled, and difficult to crack. You prize composure, avoid mess, and reveal vulnerability in tiny, polished fragments."
+  },
+  {
+    "id": "oversharing-soft-serve",
+    "name": "The Oversharing Soft-Serve",
+    "description": "Warm, expressive, and immediate. You connect fast, feel deeply, and sometimes overflow details before trust scaffolding is fully built."
+  },
+  {
+    "id": "chaotic-comet",
+    "name": "The Chaotic Comet",
+    "description": "You arrive with force, leave a mark, and move on unpredictably. High intensity bonds, low consistency, undeniable charisma."
+  },
+  {
+    "id": "stoic-boulder",
+    "name": "The Stoic Boulder",
+    "description": "Steady and dependable under pressure. You take time to open up, but once attached, you become a calm and unshakable anchor."
+  },
+  {
+    "id": "people-pleasing-spiral",
+    "name": "The People-Pleasing Spiral",
+    "description": "You keep relationships moving by adapting constantly. Flexible, generous, and occasionally at risk of forgetting your own boundaries."
+  },
+  {
+    "id": "golden-hour-glider",
+    "name": "The Golden-Hour Glider",
+    "description": "Balanced, breezy, and emotionally aerodynamic. You blend warmth and independence, making connection feel effortless and clean."
+  }
+]
